@@ -36,9 +36,9 @@ Execute the script files in your Oracle SQL Developer in the following sequentia
 
 ## 👤 Author
 
-**Mahmooood**
-Data & Analytics Engineer
-PL/SQL| Oracle Sql Developer
+**Mahmooood**  
+Data & Analytics Engineer  
+PL/SQL | Oracle SQL Developer  
 GitHub: [MahmoooOod](https://github.com/MahmoooOod)
 
 ---
@@ -46,6 +46,5 @@ GitHub: [MahmoooOod](https://github.com/MahmoooOod)
 ## ✅ Project Status
 
 🎉 **Project Fully Completed & Delivered**
-
 
   
